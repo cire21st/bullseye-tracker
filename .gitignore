@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+runs/
+datasets/
+/*.pt
+models/*.pt
+runs_train.log
